@@ -14,6 +14,8 @@ public class Principal {
 		
 		System.out.println("Commit de GITHUB");
 
+		String variable="String definida en GITHUB";
+
 	}
 
 }
